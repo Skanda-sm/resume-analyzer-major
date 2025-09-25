@@ -66,3 +66,5 @@ Saves recruiters significant time by automating resume screening.
 Ensures unbiased and consistent evaluation of candidates.
 
 Helps candidates understand their strengths and gaps with respect to a job posting.
+
+The page will run on http://127.0.0.1:5000/ here.
